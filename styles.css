@@ -65,3 +65,10 @@ body {
     margin-bottom: 1rem;
   }
   
+  img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200%;
+    width: 100%;
+  }
