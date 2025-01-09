@@ -19,3 +19,4 @@ let linkText = document.createTextNode("home");
 a.appendChild(linkText);
 a.title = "home";
 a.href = "http://beachcleaning.com";
+document.body.appendChild(a);
