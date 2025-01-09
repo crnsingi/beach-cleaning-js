@@ -16,3 +16,4 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   
 let a = document.createElement('a');
 let linkText = document.createTextNode("home");
+a.appendChild(linkText);
