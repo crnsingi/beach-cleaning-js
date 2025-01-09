@@ -18,3 +18,4 @@ let a = document.createElement('a');
 let linkText = document.createTextNode("home");
 a.appendChild(linkText);
 a.title = "home";
+a.href = "http://beachcleaning.com";
