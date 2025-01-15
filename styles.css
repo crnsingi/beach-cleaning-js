@@ -1,6 +1,8 @@
 body {
     background-image: url('image1.png');
     background-size: cover;
+    wwidth: 100vw;
+
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
