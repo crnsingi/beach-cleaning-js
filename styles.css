@@ -1,4 +1,5 @@
 body {
+    background-image: url('image1.png');
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -73,3 +74,4 @@ body {
     height: 100%;
     width: 100%;
   }
+
