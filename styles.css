@@ -7,8 +7,6 @@ body {
   }
   
   header {
-    color: white;
-    font-weight: bold;
     padding: 0rem 0;
   }
   
@@ -31,7 +29,9 @@ body {
   }
   
   nav ul li a {
-    color: white;
+    color: black;
+    font-weight: bold;
+
     text-decoration: none;
   }
   
