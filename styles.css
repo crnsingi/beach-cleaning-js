@@ -22,17 +22,19 @@ body {
     position: absolute;
     width: auto;
     margin: 20px;
-    text-align: center;
+    justify-content: center;
   }
   
   nav ul li {
     margin: 0 1rem;
+    
   }
   
   nav ul li a {
     color: black;
     font-weight: bold;
     text-decoration: none;
+
   }
   
   main {
