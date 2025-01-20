@@ -12,6 +12,7 @@ body {
   
   header h1 {
     text-align: center;
+    
   }
   
   nav ul {
@@ -20,13 +21,13 @@ body {
     justify-content: center;
     padding: 0;
     position: absolute;
-    width: auto;
+    width: 100%;
     margin: 20px;
-    justify-content: center;
   }
   
   nav ul li {
     margin: 0 1rem;
+    
     
   }
   
@@ -34,6 +35,7 @@ body {
     color: black;
     font-weight: bold;
     text-decoration: none;
+    
 
   }
   
