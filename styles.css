@@ -93,3 +93,8 @@ video {
   margin: 6px 0;
   transition: 0.4s;
 }
+
+/* Animation for the burger menu icon when clicked */
+.change .bar1 {
+  transform: translate(0, 11px) rotate(-45deg);
+}
