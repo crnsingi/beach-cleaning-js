@@ -110,3 +110,21 @@ video {
 .change ~ .nav-links {
   display: block;
 }
+
+/* Media query for larger screens */
+@media screen and (min-width: 768px) {
+  .burger-menu {
+      display: none;
+  }
+
+  .nav-links {
+      display: flex;
+      justify-content: space-around;
+      position: static;
+      background: none;
+  }
+
+  .nav-links li {
+      margin: 0;
+  }
+}
