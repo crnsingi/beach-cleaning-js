@@ -79,6 +79,7 @@ video {
   object-fit: cover;
   width: 100vw;
   height: 100vh;
+  /*position: fixed;  /* Fixed positioning to keep it in the background */
   top: 0;
   left: 0;
 }
