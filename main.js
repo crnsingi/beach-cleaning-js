@@ -22,5 +22,6 @@ a.href = "http://beachcleaning.com";
 document.body.appendChild(a);
 
 document.addEventListener('DOMContentLoaded', function() {
-  
+  const burger = document.querySelector('.burger-menu');
+
 })
