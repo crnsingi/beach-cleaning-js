@@ -23,5 +23,6 @@ document.body.appendChild(a);
 
 document.addEventListener('DOMContentLoaded', function() {
   const burger = document.querySelector('.burger-menu');
+  const nav = document.querySelector('.nav-links');
 
 })
