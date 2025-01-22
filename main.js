@@ -21,3 +21,6 @@ a.title = "home";
 a.href = "http://beachcleaning.com";
 document.body.appendChild(a);
 
+document.addEventListener('DOMContentLoaded', function() {
+  
+})
