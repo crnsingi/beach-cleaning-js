@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   burger.addEventListener('click', function() {
     this.classList.toggle('change');
+    nav.classList.toggle('active');
 
   })
 
