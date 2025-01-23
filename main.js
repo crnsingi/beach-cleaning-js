@@ -35,8 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const isClickInside = burger.contains(event.target) || nav.contains(event.target);
     if (! isclickInside) {
       burger.classList.remove('change');
+      nav.classList.remove('active');
     }
-
   })
-
 })
