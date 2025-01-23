@@ -26,7 +26,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const nav = document.querySelector('.nav-links');
 
   burger.addEventListener('click', function() {
-    
+    this.classList.toggle('change');
+
   })
 
 })
