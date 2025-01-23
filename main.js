@@ -28,7 +28,11 @@ document.addEventListener('DOMContentLoaded', function() {
   burger.addEventListener('click', function() {
     this.classList.toggle('change');
     nav.classList.toggle('active');
+  });
 
+  // close menu if clicked outside of it 
+  document.addEventListener('click', function(event) {
+    
   })
 
 })
