@@ -33,6 +33,9 @@ document.addEventListener('DOMContentLoaded', function() {
   // close menu if clicked outside of it 
   document.addEventListener('click', function(event) {
     const isClickInside = burger.contains(event.target) || nav.contains(event.target);
+    if (! isclickInside) {
+      burger.classList.remove('change');
+    }
 
   })
 
