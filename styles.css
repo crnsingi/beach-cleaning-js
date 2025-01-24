@@ -95,6 +95,7 @@ video {
   top: 0;
   right: -450px;
   display: flex;
+  flex-direction: column;
   
 
 
