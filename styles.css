@@ -92,6 +92,7 @@ video {
   width: 100%;
   max-width: 450px;
   position: fixed;
+  top: 0;
   
 
 
