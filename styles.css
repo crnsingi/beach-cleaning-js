@@ -117,5 +117,10 @@ nav {
   height: 50px;
   width: 50px;
   margin-left: auto;
+  position: relative;
+}
 
+.ham-menu span { 
+  height: 5px;
+  width: 100%;
 }
