@@ -86,4 +86,8 @@ video {
   left: 0;
 }
 
+.off-screen-menu{
+  background-color: rgb(34, 37, 49);
+  height: 100vh;
 
+}
