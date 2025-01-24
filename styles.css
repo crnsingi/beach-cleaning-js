@@ -106,3 +106,7 @@ video {
 .off-screen-menu.active { 
   right: 0;
 }
+
+nav { 
+  padding: 1rem;
+}
