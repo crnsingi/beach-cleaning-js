@@ -112,3 +112,7 @@ nav {
   display: flex;
   background-color: rgb(34, 37, 49);
 }
+
+.ham-menu { 
+  height: 50px;
+}
