@@ -131,3 +131,8 @@ nav {
   transform: translate(-50%, -50%);
   transition: .3a ease;
 }
+
+.ham-menu span:nth-child(1) {
+  top: 25%;
+}
+
