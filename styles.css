@@ -136,3 +136,7 @@ nav {
   top: 25%;
 }
 
+.ham-menu span:nth-child(3) {
+  top: 75%;
+}
+
