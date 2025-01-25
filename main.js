@@ -21,7 +21,7 @@ a.title = "home";
 a.href = "http://beachcleaning.com";
 document.body.appendChild(a);
 
-document.addEventListener('DOMContentLoaded', function() {
+/* document.addEventListener('DOMContentLoaded', function() {
   const burger = document.querySelector('.burger-menu');
   const nav = document.querySelector('.nav-links');
 
@@ -39,3 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   })
 })
+
+*/
+
+const hamMenu = document.querySelector('.ham-menu');
