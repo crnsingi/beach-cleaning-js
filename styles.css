@@ -111,6 +111,7 @@ nav {
 }
 
 .ham-menu { 
+  display: block;
   height: 50px;
   width: 50px;
   margin-right: auto;
@@ -125,7 +126,7 @@ nav {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(50%, 50%);
+  transform: translate(-50%, -50%);
   transition: .3a ease;
 }
 
