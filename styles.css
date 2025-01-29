@@ -29,17 +29,14 @@ body {
   
   nav ul li {
     margin: 0 1rem;
-    
-    
+
   }
   
   nav ul li a {
-    color: black;
+    color: white;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    
-
   }
   
   main {
@@ -117,13 +114,13 @@ nav {
   height: 50px;
   width: 50px;
   margin-right: auto;
-  position: relative;
+  position: fixed;
 }
 
 .ham-menu span { 
   height: 5px;
   width: 100%;
-  background-color: #6F86FF;
+  background-color: white;
   border-radius: 25px;
   position: absolute;
   top: 50%;
