@@ -90,7 +90,7 @@ video {
   max-width: 450px;
   position: fixed;
   top: 0;
-  right: -450px;
+  left: -450px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -101,7 +101,7 @@ video {
 }
 
 .off-screen-menu.active { 
-  right: 0;
+  left: 0;
 }
 
 nav { 
