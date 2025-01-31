@@ -20,7 +20,7 @@ body {
   nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     padding: 0;
     position: absolute;
     width: 100%;
@@ -96,7 +96,7 @@ video {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   transition: .3s ease;
 }
 
