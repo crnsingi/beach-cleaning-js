@@ -112,8 +112,8 @@ nav {
 
 .ham-menu { 
   display: block;
-  height: 10px;
-  width: 10px;
+  height: 5px;
+  width: 5px;
   margin-right: auto;
   position: relative;
   padding: 10px;
