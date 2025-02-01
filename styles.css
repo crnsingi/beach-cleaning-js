@@ -15,6 +15,12 @@ body {
   header h1 {
    text-align: center;
   }
+
+  nav { 
+    padding: 1rem 1rem 0.9rem 200px;
+    display: flex;
+    background-color: rgb(34, 37, 49);
+  }
   
   nav ul {
     list-style: none;
@@ -102,11 +108,7 @@ video {
   left: 0;
 }
 
-nav { 
-  padding: 1rem 1rem 0.9rem 200px;
-  display: flex;
-  background-color: rgb(34, 37, 49);
-}
+
 
 .ham-menu { 
   display: block;
