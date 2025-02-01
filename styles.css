@@ -158,6 +158,13 @@ video {
   display: flex;
   align-items: center;
   margin-right: 0;
+
+  height: 5px;
+  width: 5px;
+  margin-right: auto;
+  margin-top: 20px;
+  position: relative;
+  padding: 10px;
 }
 
 .search form { 
