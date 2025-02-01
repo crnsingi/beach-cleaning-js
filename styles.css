@@ -164,3 +164,7 @@ video {
   display: flex;
   margin:0;
 }
+
+.search input { 
+  padding: 10px;
+}
