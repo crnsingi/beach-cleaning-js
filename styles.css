@@ -160,9 +160,9 @@ video {
   margin-right: 0;
 
   height: 5px;
-  width: 5px;
+  width: 0px;
   margin-right: auto;
-  margin-top: 20px;
+  margin-top: 18px;
   position: relative;
   padding: 10px;
 }
@@ -173,7 +173,7 @@ video {
 }
 
 .search input { 
-  padding: 10px;
+  padding: 5px;
   border:1px solid #ddd;
   outline:none;
   border-radius: 5px;
