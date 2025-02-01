@@ -171,5 +171,9 @@ video {
   outline:none;
   border-radius: 5px;
   margin-right: 10px;
+  font-size: 16px;
+}
 
+.search input:hover { 
+  border:1px solid #72a0d4;
 }
