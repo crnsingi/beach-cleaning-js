@@ -157,4 +157,10 @@ video {
 .search { 
   display: flex;
   align-items: center;
+  margin-right: 0;
+}
+
+.search form { 
+  display: flex;
+  margin:0;
 }
